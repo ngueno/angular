@@ -5,9 +5,9 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   // styleUrls: ['./app.component.css']
   styles: [`
-    h3 {
-      color: dodgerblue;
-    }
+        h3 {
+          color: dodgerblue;
+        }
   `]
 })
 export class AppComponent {
